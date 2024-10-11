@@ -13,14 +13,17 @@
 
 
 ### Project Overview
+---
 
 The primary objective of this project is to analyze the supermarket sales dataset to extract meaningful insights that can help the supermarket management make data-driven decisions. The analysis will focus on customer demographics, sales trends, product performance, and payment preferences. Additionally, we will explore potential correlations between variables to understand purchasing behavior across different cities and customer segments.
 
 ### Data Source
+---
 The dataset used for this project is sourced from Kaggle's ''Supermarket Sales Dataset''. It contains information on sales transactions from various cities, product categories, and payment methods.
 
 
 ### Tools Used
+---
 - Excel: To import and clean data.
 - MySQL Workbench: To store, analyze and querry  the data.
 - PowerBI Desktop: To visualize the outcomes.
@@ -153,8 +156,10 @@ It highlights customer activity patterns across different locations, showing how
 The supermarket dataset provides valuable insights into sales performance, customer behavior, and product line profitability. Key analyses such as top customer spending, product line sales contribution, and city-based transaction behavior offer actionable information for improving marketing strategies, customer segmentation, and inventory management.
 To fully leverage the dataset, additional data points such as customer demographics, discount/promotion details, and feedback mechanisms could be integrated. This would enable more comprehensive analysis and decision-making, allowing the supermarket to optimize its operations, enhance customer satisfaction, and drive long-term profitability.
 
+😄
 
+💻
 
-
+🛒
 
 
